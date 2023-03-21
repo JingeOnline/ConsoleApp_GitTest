@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp_GitTest
 {
-    public class Dog
+    public class Student
     {
     }
 }
